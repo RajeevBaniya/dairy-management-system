@@ -1,6 +1,6 @@
-dairy-management-system
+DAIRY PRODUCTS WEBSITE
 
-A comprehensive dairy management system.
+A comprehensive dairy management system
 
 ## Technologies Used
 - React for the frontend.
@@ -16,6 +16,9 @@ A comprehensive dairy management system.
 - Admin panel for managing users and items.
 
 
+![preview img](/preview1.png)
+![preview img](/preview2.png)
+![preview img](/preview3.png)
 
 ## Scripts
 - **Development**: `npm run dev` - Starts the development server using Vite.
