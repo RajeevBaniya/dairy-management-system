@@ -1,4 +1,4 @@
-DAIRY PRODUCTS WEBSITE
+
 
 A comprehensive dairy management system
 
