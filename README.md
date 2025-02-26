@@ -7,7 +7,7 @@ A comprehensive dairy products ecommerce website
 - Node.js and Express for the backend.
 - MongoDB for the database 
 - Tailwind CSS for styling.
-- API Endpoints(The server exposes several API endpoints)
+- API Endpoints
 
 ## Features
 - User authentication and authorization.
