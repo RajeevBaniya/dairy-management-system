@@ -12,7 +12,6 @@ A comprehensive dairy management system
 ## Features
 - User authentication and authorization.
 - Dashboard for managing orders and items.
-- Customer support and order tracking.
 - Admin panel for managing users and items.
 
 
