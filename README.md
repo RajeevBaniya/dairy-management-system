@@ -1,6 +1,6 @@
+DAIRY GUARD
 
-
-A comprehensive dairy management system
+A comprehensive dairy products ecommerce website
 
 ## Technologies Used
 - React for the frontend.
